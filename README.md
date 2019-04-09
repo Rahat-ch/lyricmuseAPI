@@ -1,23 +1,13 @@
-# Simple Node Server with Babel
+# Lyric Muse API
 
-[![Build Status](https://travis-ci.org/rwieruch/node-babel-server.svg?branch=master)](https://travis-ci.org/rwieruch/node-babel-server) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/rwieruch/node-babel-server.svg)](https://greenkeeper.io/)
+Back end for Lyric Mus API
 
-An easy way to get started with JavaScript on the command line. [Read more about it](https://www.robinwieruch.de/minimal-node-js-babel-setup).
+Include front end repo link: 
 
-## Features
+Technology used in back end: 
 
-* Babel 7
-* Environment Variables
+Technology used in full stack:
 
-## Requirements
+Add more here when completed
 
-* [node & npm](https://nodejs.org/en/)
-* [git](https://www.robinwieruch.de/git-essential-commands/)
 
-## Installation
-
-* `git clone git@github.com:rwieruch/node-babel-server.git`
-* `cd node-babel-server`
-* `npm install`
-* `npm start`
-* optional: include *.env* in your *.gitignore*

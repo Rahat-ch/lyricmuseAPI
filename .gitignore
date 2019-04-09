@@ -2,4 +2,6 @@ logfile
 
 .env
 
+.vscode
+
 node_modules/
